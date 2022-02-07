@@ -1,0 +1,7 @@
+__pycache__
+data*
+*.pyc
+*mbbl*
+models*
+MUJOCO_LOG*
+analyze.sh
